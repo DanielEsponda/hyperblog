@@ -1,14 +1,11 @@
 body
 {
-    text-align: center;
-    font-family: "Courier";
-    color:  rgb(79, 168, 31);
     text-align: left;
+    color:  rgb(193, 128, 30);
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
-    padding: 0;
-    
+    padding: 0;   
 }
 
 #cabecera
